@@ -1,4 +1,1 @@
-# Encryption_POD_Project
-# Encryption_POD_Project
-# Encryption_POD_Project
-# Encryption_POD_Project
+Projekt programu okienkowego szyfrujący tekst w ostatnich najmniej znaczących bitach w danym pixelu bitmapy. Dodatkowo zaimplementowałem szyfrowanie czarnobiałego obrazka w obrazku bazowym. Możliwe jest też dodanie szumów by lepiej ukryć wiadomość. 
